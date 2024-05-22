@@ -1,0 +1,56 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #1E1E2E; /* Darker background color */
+  font-family: 'Roboto', sans-serif; /* Set base font to Roboto */
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Georgia', cursive; 
+  text-shadow: 5px 2px 5px #0E0E1E; /* Darker shadow color */
+  font-size: 6rem;
+  color: #FFA500; /* Orange color for the heading */
+}
+
+p {
+  font-size: 2rem;
+  color: #FFA500; /* Orange color for the paragraph */
+  font-family: 'Georgia', cursive; 
+}
+
+.btn button {
+  font-size: 25px;
+  font-weight: 700;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #1E1E2E; /* Darker color for button text */
+  background-color: #FFA500; /* Orange color for button background */
+  border: none;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #B0B0B0; /* Lighter gray color for footer text */
+  text-align: center;
+  font-family: 'Pacifico', cursive; /* Footer font changed to Pacifico */
+}
+
+footer a {
+  color: #FFA500; /* Orange color for footer links */
+  text-decoration: none;
+}
